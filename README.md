@@ -1,6 +1,6 @@
 # Hey 👋, I'm Nurcahyadi
 # SHAFIQ Web Automations With Selenium Java + Junit
-Web Automation Testing Apps Orange HRM Open Source HR Management
+Web Automation Testing Apps SHAFIQ is a Shariah-compliant Information Technology-based Securities Crowdfunding Platform for Fundraising through Offering Securities.
 
 ### Installed
 **`Requires`**
